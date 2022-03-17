@@ -3,9 +3,9 @@
 <p align="center">
   <b>A French student, passionate about programming</b>
   <br>
-  <a href="mailto:clement.grennerat@free.fr" target="_blank"><img width="20px" src="./img/at-solid.svg" />
-  <a href="https://discord.com/users/317600247754915840" target="_blank"><img width="25px" src="./img/discord-brands.svg" />
-  <a href="https://twitter.com/CGrennerat" target="_blank"><img width="23px" src="./img/twitter-brands.svg" />
+  <a href="mailto:clement.grennerat@free.fr" target="_blank"><img width="20px" src="./img/at-solid.svg" /></a>
+  <a href="https://discord.com/users/317600247754915840" target="_blank"><img width="25px" src="./img/discord-brands.svg" /></a>
+  <a href="https://twitter.com/CGrennerat" target="_blank"><img width="23px" src="./img/twitter-brands.svg" /></a>
   <br>
   <br>
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=clementgre&show_icons=true&theme=vue-dark&hide_border=true" />
