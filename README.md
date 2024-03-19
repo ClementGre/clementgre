@@ -11,7 +11,7 @@
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=clementgre&show_icons=true&theme=vue-dark&hide_border=true" />
   <br>
   <img width="30px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width="30px" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+  <img width="30px" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
   <img width="30px" alt="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="30px" alt="Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="30px" alt="Type Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
